@@ -52,7 +52,7 @@ Our predictive modeling process comprises:
 To replicate this analysis, ensure you have the following tools and libraries installed:
 - Python (version 3.X)
 - Jupyter Notebook
-- IBM Cognos (if applicable)
+- IBM Cognos 
 
 ### Step-by-Step Guide
 
